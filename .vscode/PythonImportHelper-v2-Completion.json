@@ -1,0 +1,4126 @@
+[
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "registry",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "selectinload",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "BigInteger",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "or_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "DB",
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "isExtraImport": true,
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "isExtraImport": true,
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "isExtraImport": true,
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "isExtraImport": true,
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "isExtraImport": true,
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Advert",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "History",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Referral",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "RequestChannel",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bill",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sponsor",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Dialogue",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "History",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Advert",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "RequestChannel",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sponsor",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Referral",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bill",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sponsor",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Referral",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Advert",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sponsor",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "RequestChannel",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sponsor",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bill",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "URL",
+        "importPath": "sqlalchemy.engine",
+        "description": "sqlalchemy.engine",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.engine",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncEngine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "Filter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Filter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Filter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Filter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Filter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Filter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "StateFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "StateFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "StateFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "StateFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "StateFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "StateFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandObject",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ContentType",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Chat",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommand",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ReplyKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "KeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommand",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ReplyKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "KeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommandScopeChat",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "ContentTypes",
+        "importPath": "app.filters",
+        "description": "app.filters",
+        "isExtraImport": true,
+        "detail": "app.filters",
+        "documentation": {}
+    },
+    {
+        "label": "ContentTypes",
+        "importPath": "app.filters",
+        "description": "app.filters",
+        "isExtraImport": true,
+        "detail": "app.filters",
+        "documentation": {}
+    },
+    {
+        "label": "InDialogue",
+        "importPath": "app.filters",
+        "description": "app.filters",
+        "isExtraImport": true,
+        "detail": "app.filters",
+        "documentation": {}
+    },
+    {
+        "label": "IsVip",
+        "importPath": "app.filters",
+        "description": "app.filters",
+        "isExtraImport": true,
+        "detail": "app.filters",
+        "documentation": {}
+    },
+    {
+        "label": "NotSubbed",
+        "importPath": "app.filters",
+        "description": "app.filters",
+        "isExtraImport": true,
+        "detail": "app.filters",
+        "documentation": {}
+    },
+    {
+        "label": "IsVip",
+        "importPath": "app.filters",
+        "description": "app.filters",
+        "isExtraImport": true,
+        "detail": "app.filters",
+        "documentation": {}
+    },
+    {
+        "label": "IsRegistered",
+        "importPath": "app.filters",
+        "description": "app.filters",
+        "isExtraImport": true,
+        "detail": "app.filters",
+        "documentation": {}
+    },
+    {
+        "label": "IsVip",
+        "importPath": "app.filters",
+        "description": "app.filters",
+        "isExtraImport": true,
+        "detail": "app.filters",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "importPath": "app.templates",
+        "description": "app.templates",
+        "isExtraImport": true,
+        "detail": "app.templates",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "importPath": "app.templates",
+        "description": "app.templates",
+        "isExtraImport": true,
+        "detail": "app.templates",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "importPath": "app.templates",
+        "description": "app.templates",
+        "isExtraImport": true,
+        "detail": "app.templates",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "importPath": "app.templates",
+        "description": "app.templates",
+        "isExtraImport": true,
+        "detail": "app.templates",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "importPath": "app.templates",
+        "description": "app.templates",
+        "isExtraImport": true,
+        "detail": "app.templates",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "importPath": "app.templates",
+        "description": "app.templates",
+        "isExtraImport": true,
+        "detail": "app.templates",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "importPath": "app.templates",
+        "description": "app.templates",
+        "isExtraImport": true,
+        "detail": "app.templates",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "importPath": "app.templates",
+        "description": "app.templates",
+        "isExtraImport": true,
+        "detail": "app.templates",
+        "documentation": {}
+    },
+    {
+        "label": "texts",
+        "importPath": "app.templates",
+        "description": "app.templates",
+        "isExtraImport": true,
+        "detail": "app.templates",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "ADMIN_COMMANDS",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "USER_COMMANDS",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "MailerSingleton",
+        "importPath": "app.utils.mailing",
+        "description": "app.utils.mailing",
+        "isExtraImport": true,
+        "detail": "app.utils.mailing",
+        "documentation": {}
+    },
+    {
+        "label": "ceil",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "ceil",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "get_times",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_commands",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_times",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "plots",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_commands",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "schedule",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "payments",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "validators",
+        "description": "validators",
+        "detail": "validators",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramAPIError",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramBadRequest",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramAPIError",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramAPIError",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramNotFound",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramForbiddenError",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramBadRequest",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramAPIError",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramAPIError",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramAPIError",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramRetryAfter",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramAPIError",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "escape",
+        "importPath": "app.utils.text",
+        "description": "app.utils.text",
+        "isExtraImport": true,
+        "detail": "app.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "get_ref",
+        "importPath": "app.utils.text",
+        "description": "app.utils.text",
+        "isExtraImport": true,
+        "detail": "app.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "delete_dialogue",
+        "importPath": "app.handlers.user.dialogue",
+        "description": "app.handlers.user.dialogue",
+        "isExtraImport": true,
+        "detail": "app.handlers.user.dialogue",
+        "documentation": {}
+    },
+    {
+        "label": "VIP_OPTIONS",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "VIP_OPTIONS",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "BasePayment",
+        "importPath": "app.utils.payments",
+        "description": "app.utils.payments",
+        "isExtraImport": true,
+        "detail": "app.utils.payments",
+        "documentation": {}
+    },
+    {
+        "label": "BaseBill",
+        "importPath": "app.utils.payments",
+        "description": "app.utils.payments",
+        "isExtraImport": true,
+        "detail": "app.utils.payments",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "aiohttp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "TokenValidationError",
+        "importPath": "aiogram.utils.token",
+        "description": "aiogram.utils.token",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.token",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "payok",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "payok",
+        "description": "payok",
+        "detail": "payok",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio.session",
+        "description": "sqlalchemy.ext.asyncio.session",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio.session",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.patches",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.patches",
+        "description": "matplotlib.patches",
+        "detail": "matplotlib.patches",
+        "documentation": {}
+    },
+    {
+        "label": "Axes",
+        "importPath": "matplotlib.axes",
+        "description": "matplotlib.axes",
+        "isExtraImport": true,
+        "detail": "matplotlib.axes",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "middlewares",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "handlers",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_sessionmaker",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "MemoryStorage",
+        "importPath": "aiogram.fsm.storage.memory",
+        "description": "aiogram.fsm.storage.memory",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.storage.memory",
+        "documentation": {}
+    },
+    {
+        "label": "RedisStorage",
+        "importPath": "aiogram.fsm.storage.redis",
+        "description": "aiogram.fsm.storage.redis",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.storage.redis",
+        "documentation": {}
+    },
+    {
+        "label": "Advert",
+        "kind": 6,
+        "importPath": "app.database.models.advert",
+        "description": "app.database.models.advert",
+        "peekOfCode": "class Advert(Base):\n    __tablename__ = 'adverts'\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    type: Mapped[int]\n    title: Mapped[str]\n    text: Mapped[str]\n    file_id: Mapped[Optional[str]]\n    markup: Mapped[Optional[str]]\n    views: Mapped[int] = mapped_column(default=0)\n    target: Mapped[int]",
+        "detail": "app.database.models.advert",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "app.database.models.base",
+        "description": "app.database.models.base",
+        "peekOfCode": "class Base(DeclarativeBase):\n    registry = registry(\n        type_annotation_map={\n            bigint: BigInteger,\n        },\n    )",
+        "detail": "app.database.models.base",
+        "documentation": {}
+    },
+    {
+        "label": "bigint",
+        "kind": 5,
+        "importPath": "app.database.models.base",
+        "description": "app.database.models.base",
+        "peekOfCode": "bigint = Annotated[int, 64]\nclass Base(DeclarativeBase):\n    registry = registry(\n        type_annotation_map={\n            bigint: BigInteger,\n        },\n    )",
+        "detail": "app.database.models.base",
+        "documentation": {}
+    },
+    {
+        "label": "Bill",
+        "kind": 6,
+        "importPath": "app.database.models.bill",
+        "description": "app.database.models.bill",
+        "peekOfCode": "class Bill(Base):\n    __tablename__ = 'bills'\n    id: Mapped[bigint] = mapped_column(primary_key=True)\n    user_id: Mapped[bigint]\n    amount: Mapped[int]\n    date: Mapped[datetime] = mapped_column(default=datetime.now)\n    ref: Mapped[Optional[str]]",
+        "detail": "app.database.models.bill",
+        "documentation": {}
+    },
+    {
+        "label": "Dialogue",
+        "kind": 6,
+        "importPath": "app.database.models.dialogue",
+        "description": "app.database.models.dialogue",
+        "peekOfCode": "class Dialogue(Base):\n    __tablename__ = 'dialogues'\n    first: Mapped[bigint] = mapped_column(ForeignKey('users.id'), primary_key=True)\n    second: Mapped[bigint] = mapped_column(ForeignKey('users.id'), primary_key=True)\n    def get_id(self, first: int) -> int:\n        return self.first if first == self.second else self.second",
+        "detail": "app.database.models.dialogue",
+        "documentation": {}
+    },
+    {
+        "label": "History",
+        "kind": 6,
+        "importPath": "app.database.models.history",
+        "description": "app.database.models.history",
+        "peekOfCode": "class History(Base):\n    __tablename__ = 'history'\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    user_id: Mapped[bigint]\n    ad_id: Mapped[int] \n    time: Mapped[datetime] = mapped_column(default=datetime.now)",
+        "detail": "app.database.models.history",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "kind": 6,
+        "importPath": "app.database.models.queue",
+        "description": "app.database.models.queue",
+        "peekOfCode": "class Queue(Base):\n    __tablename__ = 'queue'\n    id: Mapped[bigint] = mapped_column(ForeignKey(User.id), primary_key=True)\n    is_man: Mapped[bool]\n    target_man: Mapped[Optional[bool]]\n    is_adult: Mapped[bool]\n    user: Mapped[\"User\"] = relationship()",
+        "detail": "app.database.models.queue",
+        "documentation": {}
+    },
+    {
+        "label": "Referral",
+        "kind": 6,
+        "importPath": "app.database.models.referral",
+        "description": "app.database.models.referral",
+        "peekOfCode": "class Referral(Base):\n    __tablename__ = 'referrals'\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    ref: Mapped[str]\n    total: Mapped[int] = mapped_column(default=0)\n    price: Mapped[Optional[int]]",
+        "detail": "app.database.models.referral",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "kind": 6,
+        "importPath": "app.database.models.request",
+        "description": "app.database.models.request",
+        "peekOfCode": "class Request(Base):\n    __tablename__ = 'requests'\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    user_id: Mapped[bigint]\n    chat_id: Mapped[bigint]\n    time: Mapped[datetime]",
+        "detail": "app.database.models.request",
+        "documentation": {}
+    },
+    {
+        "label": "RequestChannel",
+        "kind": 6,
+        "importPath": "app.database.models.request_channel",
+        "description": "app.database.models.request_channel",
+        "peekOfCode": "class RequestChannel(Base):\n    __tablename__ = 'request_channels'\n    id: Mapped[bigint] = mapped_column(primary_key=True, autoincrement=True)\n    active: Mapped[bool] = mapped_column(default=False)\n    title: Mapped[str]\n    visits: Mapped[int] = mapped_column(default=0)",
+        "detail": "app.database.models.request_channel",
+        "documentation": {}
+    },
+    {
+        "label": "Sponsor",
+        "kind": 6,
+        "importPath": "app.database.models.sponsor",
+        "description": "app.database.models.sponsor",
+        "peekOfCode": "class Sponsor(Base):\n    __tablename__ = 'sponsors'\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    check: Mapped[bool] = mapped_column(default=False)\n    is_bot: Mapped[bool] = mapped_column(default=False)\n    is_active: Mapped[bool] = mapped_column(default=True)\n    title: Mapped[str]\n    link: Mapped[str]\n    access_id: Mapped[str]\n    visits: Mapped[int] = mapped_column(default=0)",
+        "detail": "app.database.models.sponsor",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.database.models.user",
+        "description": "app.database.models.user",
+        "peekOfCode": "class User(Base):\n    __tablename__ = 'users'\n    id: Mapped[bigint] = mapped_column(primary_key=True, autoincrement=True)\n    join_date: Mapped[datetime] = mapped_column(default=datetime.now)\n    block_date: Mapped[Optional[datetime]]\n    ref: Mapped[Optional[str]]\n    subbed: Mapped[bool] = mapped_column(default=False)\n    subbed_before: Mapped[bool] = mapped_column(default=False)\n    invited: Mapped[int] = mapped_column(default=0)\n    age: Mapped[Optional[int]]",
+        "detail": "app.database.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 5,
+        "importPath": "app.database.engine",
+        "description": "app.database.engine",
+        "peekOfCode": "log = logging.getLogger('database.engine')\nasync def create_tables(engine: AsyncEngine) -> None:\n    \"\"\"\n    Create tables from models. \n    :param AsyncEngine engine: Async engine\n    \"\"\"\n    async with engine.begin() as conn:\n        await conn.run_sync(Base.metadata.create_all)\n        log.info('Tables created successfully')\nasync def create_sessionmaker(database: DB) -> async_sessionmaker:",
+        "detail": "app.database.engine",
+        "documentation": {}
+    },
+    {
+        "label": "ContentTypes",
+        "kind": 6,
+        "importPath": "app.filters.content_types",
+        "description": "app.filters.content_types",
+        "peekOfCode": "class ContentTypes(Filter):\n    \"\"\"\n    Legacy-like content-types filter\n    \"\"\"\n    def __init__(self, *content_types: str):\n        self.content_types = content_types\n    async def __call__(self, update: Message) -> bool:\n        return (\n            (update.content_type in self.content_types) \n            or (ContentType.ANY in self.content_types)",
+        "detail": "app.filters.content_types",
+        "documentation": {}
+    },
+    {
+        "label": "InDialogue",
+        "kind": 6,
+        "importPath": "app.filters.in_dialogue",
+        "description": "app.filters.in_dialogue",
+        "peekOfCode": "class InDialogue(Filter):\n    def __init__(self, in_dialogue: bool=True):\n        self.in_dialogue = in_dialogue\n    async def __call__(self, _, user: User):\n        return (user.partner is not None) == self.in_dialogue",
+        "detail": "app.filters.in_dialogue",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdmin",
+        "kind": 6,
+        "importPath": "app.filters.is_admin",
+        "description": "app.filters.is_admin",
+        "peekOfCode": "class IsAdmin(Filter):\n    \"\"\"\n    Check if user is an admin\n    \"\"\"\n    def __init__(self, is_admin: bool=True):\n        self.is_admin = is_admin\n    async def __call__(self, update: Message | CallbackQuery, config: Settings, user: User) -> bool:\n        return self.is_admin == (\n            update.from_user.id \n            in config.bot.admins ",
+        "detail": "app.filters.is_admin",
+        "documentation": {}
+    },
+    {
+        "label": "IsRegistered",
+        "kind": 6,
+        "importPath": "app.filters.is_registered",
+        "description": "app.filters.is_registered",
+        "peekOfCode": "class IsRegistered(Filter):\n    \"\"\"\n    Check if user is Registered\n    \"\"\"\n    def __init__(self, is_registered: bool=True):\n        self.is_registered = is_registered\n    async def __call__(self, _, user: User) -> bool:\n        return self.is_registered == (user.is_man is not None)",
+        "detail": "app.filters.is_registered",
+        "documentation": {}
+    },
+    {
+        "label": "IsVip",
+        "kind": 6,
+        "importPath": "app.filters.is_vip",
+        "description": "app.filters.is_vip",
+        "peekOfCode": "class IsVip(Filter):\n    \"\"\"\n    Check if user is VIP\n    \"\"\"\n    def __init__(self, is_vip: bool=True):\n        self.is_vip = is_vip\n    async def __call__(self, _, user: User) -> bool:\n        return self.is_vip == user.is_vip",
+        "detail": "app.filters.is_vip",
+        "documentation": {}
+    },
+    {
+        "label": "NotSubbed",
+        "kind": 6,
+        "importPath": "app.filters.not_subbed",
+        "description": "app.filters.not_subbed",
+        "peekOfCode": "class NotSubbed(Filter):\n    \"\"\"\n    Check if user is subbed\n    \"\"\"\n    async def __call__(self, _, sponsors: list) -> bool:\n        return bool(sponsors)",
+        "detail": "app.filters.not_subbed",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.admin.adverts",
+        "description": "app.handlers.admin.adverts",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(ads_menu, Text('Посты'))\n    router.message.register(ads_menu, Command('adverts'))\n    router.callback_query.register(ad, Text(startswith='ad:'))\n    router.message.register(add_ad_params, StateFilter('adverts.add.title'))\n    router.message.register(add_ad_text, StateFilter('adverts.add.text'), ContentTypes(types.ContentType.ANY))\n    router.callback_query.register(cancel, Text('cancel'), StateFilter('adverts.add.title'))\n    router.callback_query.register(cancel, Text('cancel'), StateFilter('adverts.add.text'))",
+        "detail": "app.handlers.admin.adverts",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.admin.dump",
+        "description": "app.handlers.admin.dump",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(pre_dump_users, Command(\"dump\"))\n    router.message.register(pre_dump_users, Text(\"Выгрузка\"))\n    router.callback_query.register(dump_users, Text(startswith=\"dump\"))",
+        "detail": "app.handlers.admin.dump",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.admin.mail",
+        "description": "app.handlers.admin.mail",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(pre_mailing, Command(\"mailing\"))\n    router.message.register(pre_mailing, Text(\"Рассылка\"))\n    router.message.register(mailing_text, StateFilter(\"mailing.text\"), ContentTypes(types.ContentType.ANY))\n    router.callback_query.register(cancel_mailing, Text(\"cancel\"), StateFilter(\"mailing.text\"))\n    router.message.register(mailing_confirm, StateFilter(\"mailing.confirm\"))\n    router.callback_query.register(stop_mailing, Text(\"stopmail\"))",
+        "detail": "app.handlers.admin.mail",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.admin.referrals",
+        "description": "app.handlers.admin.referrals",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(referral, Command(\"referrals\"))\n    router.message.register(referral, Text(\"Рефералы\"))\n    router.callback_query.register(ref, Text(startswith=\"ref:\"))\n    router.message.register(create_ref, StateFilter('ref.new'))\n    router.callback_query.register(cancel, Text('cancel'), StateFilter('ref.new'))",
+        "detail": "app.handlers.admin.referrals",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.admin.requests",
+        "description": "app.handlers.admin.requests",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(menu, Command(\"requests\"))\n    router.message.register(menu, Text(\"Заявки\"))\n    router.callback_query.register(channel, Text(startswith=\"request:\"))",
+        "detail": "app.handlers.admin.requests",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.admin.start",
+        "description": "app.handlers.admin.start",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(start, CommandStart())\n    router.message.register(give_admin, Command('admin'))",
+        "detail": "app.handlers.admin.start",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.admin.stats",
+        "description": "app.handlers.admin.stats",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(user_stats, Text(\"Статистика\"))\n    router.message.register(user_stats, Command(\"stats\"))\n    router.message.register(payment_stats, Text('Прибыль'))\n    router.message.register(payment_stats, Command(\"money\"))",
+        "detail": "app.handlers.admin.stats",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.admin.subscribe",
+        "description": "app.handlers.admin.subscribe",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(channels, Text(\"Спонсоры\"))\n    router.message.register(channels, Command(\"sponsors\"))\n    router.callback_query.register(sponsor_menu, Text(startswith=\"sponsor\"))\n    router.callback_query.register(choice_sponsor, Text(startswith=\"addsponsor\"))\n    router.message.register(sponsor_add, StateFilter(\"sponsor.add\"))\n    router.callback_query.register(cancel, Text('cancel'), StateFilter(\"sponsor.add\"))",
+        "detail": "app.handlers.admin.subscribe",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.user.dialogue",
+        "description": "app.handlers.user.dialogue",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(random_normal, Text('Случайный диалог 🔍'))\n    router.message.register(male_normal, Text('Поиск М 👨'))\n    router.message.register(female_normal, Text('Поиск Ж 👩'))\n    router.message.register(pre_adult, Text('Пошлый чат 🔞'))\n    router.callback_query.register(adult, Text(startswith='adult:'))\n    router.message.register(next, Command('next'))\n    router.message.register(finish_dialogue, Command('stop'))\n    router.message.register(finish_dialogue, Text('Завершить диалог 🚫'))\n    router.message.register(forward_message, InDialogue())",
+        "detail": "app.handlers.user.dialogue",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.user.events",
+        "description": "app.handlers.user.events",
+        "peekOfCode": "def register(dp: Dispatcher):\n    dp.my_chat_member.register(my_chat_member)\n    dp.chat_join_request.register(chat_join_request)\n    dp.message.register(captcha, Text(EMOJIS))",
+        "detail": "app.handlers.user.events",
+        "documentation": {}
+    },
+    {
+        "label": "EMOJIS",
+        "kind": 5,
+        "importPath": "app.handlers.user.events",
+        "description": "app.handlers.user.events",
+        "peekOfCode": "EMOJIS = ['🛥️', '🛩️', '🏎️', '⏳', '👾', '🌐']\nasync def my_chat_member(update: types.ChatMemberUpdated, session: AsyncSession, user: User):\n    if update.chat.type == 'channel':\n        return\n    if update.chat.type != 'private':\n        if update.new_chat_member.status in ('left', 'kicked'):\n            await session.execute(\n                delete(User)\n                .where(User.id == update.chat.id)\n            )",
+        "detail": "app.handlers.user.events",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.user.notsubbed",
+        "description": "app.handlers.user.notsubbed",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(notsubbed, NotSubbed())\n    router.callback_query.register(notsubbed_cb, NotSubbed())\n    router.callback_query.register(subbed, Text(\"checksub\"))",
+        "detail": "app.handlers.user.notsubbed",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.user.profile",
+        "description": "app.handlers.user.profile",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(show_profile, Command('profile'))\n    router.message.register(show_profile, Text('Профиль 👤'))\n    router.callback_query.register(pre_edit_profile, Text(startswith='edit:'))\n    router.callback_query.register(edit_gender, Text(startswith='gender:'))\n    router.message.register(edit_age, StateFilter('edit.age'))",
+        "detail": "app.handlers.user.profile",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.user.start",
+        "description": "app.handlers.user.start",
+        "peekOfCode": "def register(router: Router):\n    router.message.register(start, CommandStart())\n    router.message.register(start, Text('Поиск по полу ♂️'), IsVip())\n    router.message.register(pre_reg, IsRegistered(False))",
+        "detail": "app.handlers.user.start",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.handlers.user.vip",
+        "description": "app.handlers.user.vip",
+        "peekOfCode": "def register(router: Router):\n    # router.message.register(vip_menu, Text(['Поиск М 👨', 'Поиск Ж 👩', 'Пошлый чат 🔞', 'Поиск по полу ♂️']), IsVip(False))\n    router.message.register(vip_menu, Text('VIP 👑'))\n    router.callback_query.register(vip_menu, Text('vip'))\n    router.callback_query.register(create_bill, Text(startswith='buy:'))\n    router.callback_query.register(check_bill, Text(startswith='check:'))\n    router.callback_query.register(back_bill, Text('back:vip'))\n    router.callback_query.register(referral, Text('ref'))",
+        "detail": "app.handlers.user.vip",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackMiddleware",
+        "kind": 6,
+        "importPath": "app.middlewares.callback",
+        "description": "app.middlewares.callback",
+        "peekOfCode": "class CallbackMiddleware(BaseMiddleware):\n    \"\"\"\n    Middleware for answering untouched callback queries.\n    \"\"\"\n    async def __call__(\n        self, \n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]],\n        call: CallbackQuery,\n        data: Dict[str, Any],\n    ) -> Any:",
+        "detail": "app.middlewares.callback",
+        "documentation": {}
+    },
+    {
+        "label": "SessionMiddleware",
+        "kind": 6,
+        "importPath": "app.middlewares.session",
+        "description": "app.middlewares.session",
+        "peekOfCode": "class SessionMiddleware(BaseMiddleware):\n    \"\"\"\n    Middleware for adding session.\n    \"\"\"\n    def __init__(self, sessionmaker: async_sessionmaker):\n        self.sessionmaker = sessionmaker\n    async def __call__(\n        self, \n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]],\n        event: Update,",
+        "detail": "app.middlewares.session",
+        "documentation": {}
+    },
+    {
+        "label": "SubMiddleware",
+        "kind": 6,
+        "importPath": "app.middlewares.subscribe",
+        "description": "app.middlewares.subscribe",
+        "peekOfCode": "class SubMiddleware(BaseMiddleware):\n    \"\"\"\n    Middleware for checking user's subscription\n    \"\"\"\n    def __init__(self):\n        self.session = aiohttp.ClientSession()\n    async def __call__(\n        self, \n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]],\n        event: Update,",
+        "detail": "app.middlewares.subscribe",
+        "documentation": {}
+    },
+    {
+        "label": "UserMiddleware",
+        "kind": 6,
+        "importPath": "app.middlewares.user",
+        "description": "app.middlewares.user",
+        "peekOfCode": "class UserMiddleware(BaseMiddleware):\n    \"\"\"\n    Middleware for registering user.\n    \"\"\"\n    @staticmethod\n    async def user_ref(link: str, bot: Bot, session: AsyncSession):\n        referral = await session.scalar(\n            select(User)\n            .where(User.id == int(link))\n        )",
+        "detail": "app.middlewares.user",
+        "documentation": {}
+    },
+    {
+        "label": "ADMIN_COMMANDS",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.admin.commands",
+        "description": "app.templates.keyboards.admin.commands",
+        "peekOfCode": "ADMIN_COMMANDS = [\n    BotCommand(\n        command=\"start\", \n        description=\"Запустить бота\",\n    ),\n    BotCommand(\n        command=\"stats\", \n        description=\"Статистика\",\n    ),\n    BotCommand(",
+        "detail": "app.templates.keyboards.admin.commands",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "kind": 2,
+        "importPath": "app.templates.keyboards.admin.inline",
+        "description": "app.templates.keyboards.admin.inline",
+        "peekOfCode": "def choice(item_id: int | str, prefix: str) -> InlineKeyboardMarkup:\n    return InlineKeyboardMarkup(\n        inline_keyboard=[\n            [\n                InlineKeyboardButton(\n                    text='Да',\n                    callback_data='%s:del2:%s' % (prefix, item_id),\n                ),\n            ],\n            [",
+        "detail": "app.templates.keyboards.admin.inline",
+        "documentation": {}
+    },
+    {
+        "label": "channels",
+        "kind": 2,
+        "importPath": "app.templates.keyboards.admin.inline",
+        "description": "app.templates.keyboards.admin.inline",
+        "peekOfCode": "def channels(channels: list[RequestChannel]) -> InlineKeyboardMarkup:\n    return InlineKeyboardMarkup(\n        inline_keyboard=[\n            [\n                InlineKeyboardButton(\n                    text='🟢' if channel.active else '⭕',\n                    callback_data='request:active:%i' % channel.id,\n                ),\n                InlineKeyboardButton(\n                    text=channel.title,",
+        "detail": "app.templates.keyboards.admin.inline",
+        "documentation": {}
+    },
+    {
+        "label": "ref",
+        "kind": 2,
+        "importPath": "app.templates.keyboards.admin.inline",
+        "description": "app.templates.keyboards.admin.inline",
+        "peekOfCode": "def ref(ref: str) -> InlineKeyboardMarkup:\n    return InlineKeyboardMarkup(\n        inline_keyboard=[\n            [\n                InlineKeyboardButton(\n                    text='Назад',\n                    callback_data='ref:list:1',\n                ),\n                InlineKeyboardButton(\n                    text='Удалить',",
+        "detail": "app.templates.keyboards.admin.inline",
+        "documentation": {}
+    },
+    {
+        "label": "ref_list",
+        "kind": 2,
+        "importPath": "app.templates.keyboards.admin.inline",
+        "description": "app.templates.keyboards.admin.inline",
+        "peekOfCode": "def ref_list(refs: list[str], page: int=1) -> dict:\n    pages = ceil(len(refs)/9) or 1\n    refs = refs[(page - 1) * 9:page * 9]\n    return InlineKeyboardMarkup(\n        inline_keyboard=[\n            *(\n                [\n                    InlineKeyboardButton(\n                        text=ref,\n                        callback_data='ref:info:%s' % ref,",
+        "detail": "app.templates.keyboards.admin.inline",
+        "documentation": {}
+    },
+    {
+        "label": "sponsors",
+        "kind": 2,
+        "importPath": "app.templates.keyboards.admin.inline",
+        "description": "app.templates.keyboards.admin.inline",
+        "peekOfCode": "def sponsors(sponsors: list[Sponsor]) -> InlineKeyboardMarkup:\n    return InlineKeyboardMarkup(\n        inline_keyboard=[\n            *(\n                [\n                    InlineKeyboardButton(\n                        text='🟢' if sponsor.is_active else '⭕',\n                        callback_data='sponsor:active:%i' % sponsor.id,\n                    ),\n                    InlineKeyboardButton(",
+        "detail": "app.templates.keyboards.admin.inline",
+        "documentation": {}
+    },
+    {
+        "label": "adverts",
+        "kind": 2,
+        "importPath": "app.templates.keyboards.admin.inline",
+        "description": "app.templates.keyboards.admin.inline",
+        "peekOfCode": "def adverts(adverts: list[Advert]) -> dict:\n    return InlineKeyboardMarkup(\n        inline_keyboard=[\n            *(\n                [\n                    InlineKeyboardButton(\n                        text='🟢' if advert.is_active else '⭕',\n                        callback_data='ad:status:%i' % advert.id,\n                    ),\n                    InlineKeyboardButton(",
+        "detail": "app.templates.keyboards.admin.inline",
+        "documentation": {}
+    },
+    {
+        "label": "DUMP",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.admin.inline",
+        "description": "app.templates.keyboards.admin.inline",
+        "peekOfCode": "DUMP = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(\n                text='Всех',\n                callback_data='dump:dead',\n            ),\n            InlineKeyboardButton(\n                text='Живых',\n                callback_data='dump:alive',",
+        "detail": "app.templates.keyboards.admin.inline",
+        "documentation": {}
+    },
+    {
+        "label": "CANCEL",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.admin.inline",
+        "description": "app.templates.keyboards.admin.inline",
+        "peekOfCode": "CANCEL = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(\n                text='Отмена',\n                callback_data='cancel',\n            ),\n        ],\n    ],\n)",
+        "detail": "app.templates.keyboards.admin.inline",
+        "documentation": {}
+    },
+    {
+        "label": "SPONSOR_CHOICE",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.admin.inline",
+        "description": "app.templates.keyboards.admin.inline",
+        "peekOfCode": "SPONSOR_CHOICE = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(\n                text='🤖 Бот',\n                callback_data='addsponsor:bot',\n            ),\n            InlineKeyboardButton(\n                text='💬 Канал',\n                callback_data='addsponsor:channel',",
+        "detail": "app.templates.keyboards.admin.inline",
+        "documentation": {}
+    },
+    {
+        "label": "STOPMAIL",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.admin.inline",
+        "description": "app.templates.keyboards.admin.inline",
+        "peekOfCode": "STOPMAIL = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(\n                text='Остановить рассылку',\n                callback_data='stopmail',\n            ),\n        ],\n    ],\n)",
+        "detail": "app.templates.keyboards.admin.inline",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIRM",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.admin.reply",
+        "description": "app.templates.keyboards.admin.reply",
+        "peekOfCode": "CONFIRM = ReplyKeyboardMarkup(\n    keyboard=[\n        [\n            KeyboardButton(text='Подтвердить'),\n            KeyboardButton(text='Отмена'),\n        ],\n    ],\n    resize_keyboard=True,\n)\nMENU = ReplyKeyboardMarkup(",
+        "detail": "app.templates.keyboards.admin.reply",
+        "documentation": {}
+    },
+    {
+        "label": "MENU",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.admin.reply",
+        "description": "app.templates.keyboards.admin.reply",
+        "peekOfCode": "MENU = ReplyKeyboardMarkup(\n    keyboard=[\n        [\n            KeyboardButton(text='Статистика'),\n            KeyboardButton(text='Посты'),\n            KeyboardButton(text='Прибыль'),\n        ],\n        [\n            KeyboardButton(text='Рассылка'),\n            KeyboardButton(text='Спонсоры'),",
+        "detail": "app.templates.keyboards.admin.reply",
+        "documentation": {}
+    },
+    {
+        "label": "USER_COMMANDS",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.user.commands",
+        "description": "app.templates.keyboards.user.commands",
+        "peekOfCode": "USER_COMMANDS = [\n    BotCommand(\n        command=\"start\", \n        description=\"Запустить бота\",\n    ),\n]",
+        "detail": "app.templates.keyboards.user.commands",
+        "documentation": {}
+    },
+    {
+        "label": "split",
+        "kind": 2,
+        "importPath": "app.templates.keyboards.user.inline",
+        "description": "app.templates.keyboards.user.inline",
+        "peekOfCode": "def split(items: list, size: int) -> list[list]:\n    return [\n        items[index:index + size] \n        for index in range(0, len(items), size)\n    ]\ndef subscription(sponsors: list[Sponsor]) -> InlineKeyboardMarkup:\n    return InlineKeyboardMarkup(\n        inline_keyboard=[\n            *(\n                [",
+        "detail": "app.templates.keyboards.user.inline",
+        "documentation": {}
+    },
+    {
+        "label": "subscription",
+        "kind": 2,
+        "importPath": "app.templates.keyboards.user.inline",
+        "description": "app.templates.keyboards.user.inline",
+        "peekOfCode": "def subscription(sponsors: list[Sponsor]) -> InlineKeyboardMarkup:\n    return InlineKeyboardMarkup(\n        inline_keyboard=[\n            *(\n                [\n                    InlineKeyboardButton(\n                        text=sponsor.title,\n                        url=sponsor.link,\n                    ),\n                ] for sponsor in sponsors",
+        "detail": "app.templates.keyboards.user.inline",
+        "documentation": {}
+    },
+    {
+        "label": "bill",
+        "kind": 2,
+        "importPath": "app.templates.keyboards.user.inline",
+        "description": "app.templates.keyboards.user.inline",
+        "peekOfCode": "def bill(bill: BaseBill, item_id: str) -> InlineKeyboardMarkup:\n    return InlineKeyboardMarkup(\n        inline_keyboard=[\n            [\n                InlineKeyboardButton(\n                    text='Оплатить 🔗',\n                    url=bill.url,\n                ),\n            ],\n            [",
+        "detail": "app.templates.keyboards.user.inline",
+        "documentation": {}
+    },
+    {
+        "label": "BUY",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.user.inline",
+        "description": "app.templates.keyboards.user.inline",
+        "peekOfCode": "BUY = InlineKeyboardMarkup(\n    inline_keyboard=[\n        *(\n            [\n                InlineKeyboardButton(\n                    text=item['name'],\n                    callback_data='buy:%s' % key,\n                ),\n            ] for key, item in VIP_OPTIONS.items()\n        ),",
+        "detail": "app.templates.keyboards.user.inline",
+        "documentation": {}
+    },
+    {
+        "label": "ADULT_GENDER",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.user.inline",
+        "description": "app.templates.keyboards.user.inline",
+        "peekOfCode": "ADULT_GENDER = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(\n                text='Муж. ♂️',\n                callback_data='adult:male',\n            ),\n            InlineKeyboardButton(\n                text='Жен. ♀️',\n                callback_data='adult:female',",
+        "detail": "app.templates.keyboards.user.inline",
+        "documentation": {}
+    },
+    {
+        "label": "BACK_VIP",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.user.inline",
+        "description": "app.templates.keyboards.user.inline",
+        "peekOfCode": "BACK_VIP = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(\n                text='Назад 🔙',\n                callback_data='back:vip',\n            ),\n        ],\n    ],\n)",
+        "detail": "app.templates.keyboards.user.inline",
+        "documentation": {}
+    },
+    {
+        "label": "PROFILE",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.user.inline",
+        "description": "app.templates.keyboards.user.inline",
+        "peekOfCode": "PROFILE = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(\n                text='Изменить пол👩‍❤️‍👨',\n                callback_data='edit:gender',\n            ),\n        ],\n        [\n            InlineKeyboardButton(",
+        "detail": "app.templates.keyboards.user.inline",
+        "documentation": {}
+    },
+    {
+        "label": "GENDER",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.user.inline",
+        "description": "app.templates.keyboards.user.inline",
+        "peekOfCode": "GENDER = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(\n                text='Парень🙋‍♂',\n                callback_data='gender:1',\n            ),\n            InlineKeyboardButton(\n                text='Девушка🙎‍♀',\n                callback_data='gender:0',",
+        "detail": "app.templates.keyboards.user.inline",
+        "documentation": {}
+    },
+    {
+        "label": "main_menu",
+        "kind": 2,
+        "importPath": "app.templates.keyboards.user.reply",
+        "description": "app.templates.keyboards.user.reply",
+        "peekOfCode": "def main_menu(user: User) -> ReplyKeyboardMarkup:\n    return VIP_MENU\n    # if user.is_vip:\n    #     return VIP_MENU\n    #return USER_MENU\nVIP_MENU = ReplyKeyboardMarkup(\n    keyboard=[\n        [\n            KeyboardButton(text='Случайный диалог 🔍'),\n        ],        ",
+        "detail": "app.templates.keyboards.user.reply",
+        "documentation": {}
+    },
+    {
+        "label": "VIP_MENU",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.user.reply",
+        "description": "app.templates.keyboards.user.reply",
+        "peekOfCode": "VIP_MENU = ReplyKeyboardMarkup(\n    keyboard=[\n        [\n            KeyboardButton(text='Случайный диалог 🔍'),\n        ],        \n        [\n            KeyboardButton(text='Поиск Ж 👩'),\n            KeyboardButton(text='Поиск М 👨'),\n        ],\n        [",
+        "detail": "app.templates.keyboards.user.reply",
+        "documentation": {}
+    },
+    {
+        "label": "USER_MENU",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.user.reply",
+        "description": "app.templates.keyboards.user.reply",
+        "peekOfCode": "USER_MENU = ReplyKeyboardMarkup(\n    keyboard=[\n        [\n            KeyboardButton(text='Случайный диалог 🔍'),\n        ],\n        [\n            KeyboardButton(text='Поиск по полу ♂️'),\n        ],\n        [\n            KeyboardButton(text='Пошлый чат 🔞'),",
+        "detail": "app.templates.keyboards.user.reply",
+        "documentation": {}
+    },
+    {
+        "label": "END_DIALOGUE",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.user.reply",
+        "description": "app.templates.keyboards.user.reply",
+        "peekOfCode": "END_DIALOGUE = ReplyKeyboardMarkup(\n    keyboard=[\n        [\n            KeyboardButton(text='Завершить диалог 🚫'),\n        ],\n    ],\n    resize_keyboard=True,\n)\nJOIN_REQUEST = ReplyKeyboardMarkup(\n    keyboard=[",
+        "detail": "app.templates.keyboards.user.reply",
+        "documentation": {}
+    },
+    {
+        "label": "JOIN_REQUEST",
+        "kind": 5,
+        "importPath": "app.templates.keyboards.user.reply",
+        "description": "app.templates.keyboards.user.reply",
+        "peekOfCode": "JOIN_REQUEST = ReplyKeyboardMarkup(\n    keyboard=[\n        [\n            KeyboardButton(text='🛥️'),\n            KeyboardButton(text='👾'),\n            KeyboardButton(text='🏎️'),\n        ],\n        [\n            KeyboardButton(text='🌐'),\n            KeyboardButton(text='🛩️'),",
+        "detail": "app.templates.keyboards.user.reply",
+        "documentation": {}
+    },
+    {
+        "label": "STATS",
+        "kind": 5,
+        "importPath": "app.templates.texts.admin",
+        "description": "app.templates.texts.admin",
+        "peekOfCode": "STATS = '''\n📊 Статистика:\n· Всего - <code>%s</code>\n· Живы - <code>%s</code>\n· Мертвы - <code>%s</code>\n· Подписались на ОП - <code>%s</code>\n· Чаты - <code>%s</code>\n👤 Статистика по времени:\n· За сегодня - <code>%s</code>\n· За неделю - <code>%s</code>",
+        "detail": "app.templates.texts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MONEY",
+        "kind": 5,
+        "importPath": "app.templates.texts.admin",
+        "description": "app.templates.texts.admin",
+        "peekOfCode": "MONEY = '''\n📊 Статистика:\n· За сегодня - <code>%s</code>\n· За неделю - <code>%s</code>\n· За месяц - <code>%s</code>\n'''\nREF = '''\nНазвание ссылки: <code>%s</code>\n📊 Статистика:\n· Всего перешли - <code>%i</code>",
+        "detail": "app.templates.texts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "REF",
+        "kind": 5,
+        "importPath": "app.templates.texts.admin",
+        "description": "app.templates.texts.admin",
+        "peekOfCode": "REF = '''\nНазвание ссылки: <code>%s</code>\n📊 Статистика:\n· Всего перешли - <code>%i</code>\n· Из них уникальны - <code>%i</code>\n· Из них живы - <code>%i</code>\n· Подписались на ОП - <code>%i</code>\n👤 Статистика по времени:\n· Сегодня - <code>%i</code>\n· За последние 7 дней - <code>%i</code>",
+        "detail": "app.templates.texts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "REF_LIST",
+        "kind": 5,
+        "importPath": "app.templates.texts.admin",
+        "description": "app.templates.texts.admin",
+        "peekOfCode": "REF_LIST = 'Список реф. ссылок.'\nREF_DEL = 'Вы уверены, что хотите удалить реф. ссылку <code>%s</code>?'\nREF_ADD = '''\nВведите данные в формате:\n<code>\n  Название ссылки (например, bifle)\n  Цена ссылки\n</code>\n'''\nPRE_CHANNEL_ADD = 'Что добавляем?'",
+        "detail": "app.templates.texts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "REF_DEL",
+        "kind": 5,
+        "importPath": "app.templates.texts.admin",
+        "description": "app.templates.texts.admin",
+        "peekOfCode": "REF_DEL = 'Вы уверены, что хотите удалить реф. ссылку <code>%s</code>?'\nREF_ADD = '''\nВведите данные в формате:\n<code>\n  Название ссылки (например, bifle)\n  Цена ссылки\n</code>\n'''\nPRE_CHANNEL_ADD = 'Что добавляем?'\nCHANNEL_ADD = '''",
+        "detail": "app.templates.texts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "REF_ADD",
+        "kind": 5,
+        "importPath": "app.templates.texts.admin",
+        "description": "app.templates.texts.admin",
+        "peekOfCode": "REF_ADD = '''\nВведите данные в формате:\n<code>\n  Название ссылки (например, bifle)\n  Цена ссылки\n</code>\n'''\nPRE_CHANNEL_ADD = 'Что добавляем?'\nCHANNEL_ADD = '''\nВведите данные в формате:",
+        "detail": "app.templates.texts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PRE_CHANNEL_ADD",
+        "kind": 5,
+        "importPath": "app.templates.texts.admin",
+        "description": "app.templates.texts.admin",
+        "peekOfCode": "PRE_CHANNEL_ADD = 'Что добавляем?'\nCHANNEL_ADD = '''\nВведите данные в формате:\n<code>\n  Токен бота | ID канала*\n  Название кнопки\n  Ссылка на бота | канал\n  Отслеживать подписки (1 - да, 0 - нет)\n  Лимит переходов (0 - без лимита)\n</code>",
+        "detail": "app.templates.texts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CHANNEL_ADD",
+        "kind": 5,
+        "importPath": "app.templates.texts.admin",
+        "description": "app.templates.texts.admin",
+        "peekOfCode": "CHANNEL_ADD = '''\nВведите данные в формате:\n<code>\n  Токен бота | ID канала*\n  Название кнопки\n  Ссылка на бота | канал\n  Отслеживать подписки (1 - да, 0 - нет)\n  Лимит переходов (0 - без лимита)\n</code>\n*ID можно получить через @username_to_id_bot",
+        "detail": "app.templates.texts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SPONSOR_DEL",
+        "kind": 5,
+        "importPath": "app.templates.texts.admin",
+        "description": "app.templates.texts.admin",
+        "peekOfCode": "SPONSOR_DEL = 'Вы уверены, что хотите удалить спонсора <code>%s</code>?'\nSPONSORS = '''\nСписок спонсоров\n🟢 - активен\n⭕ - отключен\n🤖 - бот\n💬 - канал\n'''\nADS_ADD = '''\nВведите данные в формате:",
+        "detail": "app.templates.texts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SPONSORS",
+        "kind": 5,
+        "importPath": "app.templates.texts.admin",
+        "description": "app.templates.texts.admin",
+        "peekOfCode": "SPONSORS = '''\nСписок спонсоров\n🟢 - активен\n⭕ - отключен\n🤖 - бот\n💬 - канал\n'''\nADS_ADD = '''\nВведите данные в формате:\n<code>",
+        "detail": "app.templates.texts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ADS_ADD",
+        "kind": 5,
+        "importPath": "app.templates.texts.admin",
+        "description": "app.templates.texts.admin",
+        "peekOfCode": "ADS_ADD = '''\nВведите данные в формате:\n<code>\n  Название поста\n  Кол-во просмотров (0 - без лимита)\n</code>\n'''",
+        "detail": "app.templates.texts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "START = '''\n🏠 Главное меню:\n'''\nREG_GENDER = '''\n<b>📝 Регистрация</>\n👣 Шаг 1 из 2\n<i>Выбери ниже, какого ты пола?</>\n'''\nREG_AGE = '''\n<b>📝 Регистрация</>",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "REG_GENDER",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "REG_GENDER = '''\n<b>📝 Регистрация</>\n👣 Шаг 1 из 2\n<i>Выбери ниже, какого ты пола?</>\n'''\nREG_AGE = '''\n<b>📝 Регистрация</>\n👣 Шаг 2 из 2\n<i>Напиши, cколько тебе лет? (от 10 до 99)</>\n'''",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "REG_AGE",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "REG_AGE = '''\n<b>📝 Регистрация</>\n👣 Шаг 2 из 2\n<i>Напиши, cколько тебе лет? (от 10 до 99)</>\n'''\nNOT_SUBBED = '''\n<i><b>✅Чтобы пользоваться ботом, вы должны подписаться на наши каналы</b>\nПодпишиcь и нажми «Продолжить»!</i>\n'''\nDEFAULT_VIP = 'Данный функционал доступен только для VIP пользователей'",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "NOT_SUBBED",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "NOT_SUBBED = '''\n<i><b>✅Чтобы пользоваться ботом, вы должны подписаться на наши каналы</b>\nПодпишиcь и нажми «Продолжить»!</i>\n'''\nDEFAULT_VIP = 'Данный функционал доступен только для VIP пользователей'\nVIP = '''\n<b>Преимущества VIP 👑:</>\n<i>🔎 - Поиск по полу\n🔞 - Пошлый чат \n❌ - Отключение рекламы",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_VIP",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "DEFAULT_VIP = 'Данный функционал доступен только для VIP пользователей'\nVIP = '''\n<b>Преимущества VIP 👑:</>\n<i>🔎 - Поиск по полу\n🔞 - Пошлый чат \n❌ - Отключение рекламы\n🖼 - Обмен медиа (фото, видео, гифки, стикеры)</>\n'''\nBILL = '''\n⭐️ Чтобы получить доступ к VIP - подписке, оплатите счёт ниже ⬇️ ",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "VIP",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "VIP = '''\n<b>Преимущества VIP 👑:</>\n<i>🔎 - Поиск по полу\n🔞 - Пошлый чат \n❌ - Отключение рекламы\n🖼 - Обмен медиа (фото, видео, гифки, стикеры)</>\n'''\nBILL = '''\n⭐️ Чтобы получить доступ к VIP - подписке, оплатите счёт ниже ⬇️ \n• <i>После оплаты нажмите на кнопку \"Проверить\"</i> ✅",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "BILL",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "BILL = '''\n⭐️ Чтобы получить доступ к VIP - подписке, оплатите счёт ниже ⬇️ \n• <i>После оплаты нажмите на кнопку \"Проверить\"</i> ✅\n'''\nREF = '''\n<i>Приглашайте пользователей по своей ссылке и получайте</> <b>👑 VIP статус</> <i>на 1 день за каждого пятого друга!</>\n<b>Приглашено:</> <code>%i</>\nВаша персональная ссылка:\n👉  https://t.me/%s?start=%i\n'''",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "REF",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "REF = '''\n<i>Приглашайте пользователей по своей ссылке и получайте</> <b>👑 VIP статус</> <i>на 1 день за каждого пятого друга!</>\n<b>Приглашено:</> <code>%i</>\nВаша персональная ссылка:\n👉  https://t.me/%s?start=%i\n'''\nPROFILE = '''\n<b>👤 Профиль</>\n<b>💬 Имя -</b> %s\n<b>👫 Пол -</b> %s",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "PROFILE",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "PROFILE = '''\n<b>👤 Профиль</>\n<b>💬 Имя -</b> %s\n<b>👫 Пол -</b> %s\n<b>🔞 Возраст -</b> %s\n<b>👑 VIP -</b> %s\n'''\nSEARCH_END = '''\n<b>💬 Поиск прекращен</>\n<i>Для работы с ботом используйте кнопки снизу, также можно использовать меню команд.</>",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "SEARCH_END",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "SEARCH_END = '''\n<b>💬 Поиск прекращен</>\n<i>Для работы с ботом используйте кнопки снизу, также можно использовать меню команд.</>\n'''\nDIALOGUE_END = '''\n<b>💬 Диалог прекращен</>\n<i>Для работы с ботом используйте кнопки снизу, также можно использовать меню команд.</>\n'''\nDIALOGUE_SEARCH = '''\n<b>🔎 Поиск собеседника...</>",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "DIALOGUE_END",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "DIALOGUE_END = '''\n<b>💬 Диалог прекращен</>\n<i>Для работы с ботом используйте кнопки снизу, также можно использовать меню команд.</>\n'''\nDIALOGUE_SEARCH = '''\n<b>🔎 Поиск собеседника...</>\n<i>/stop - остановить поиск ❌</>\n'''\nDIALOGUE_GENDER = '<i>Выберите пол собеседника! ❤️‍🔥</>'\nDIALOGUE_FOUND = '''",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "DIALOGUE_SEARCH",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "DIALOGUE_SEARCH = '''\n<b>🔎 Поиск собеседника...</>\n<i>/stop - остановить поиск ❌</>\n'''\nDIALOGUE_GENDER = '<i>Выберите пол собеседника! ❤️‍🔥</>'\nDIALOGUE_FOUND = '''\n<b>Собеседник найден! 🎁</>\n<i>Для поиска след. собеседника - /next\nДля прекращения диалога - /stop</>\n'''",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "DIALOGUE_GENDER",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "DIALOGUE_GENDER = '<i>Выберите пол собеседника! ❤️‍🔥</>'\nDIALOGUE_FOUND = '''\n<b>Собеседник найден! 🎁</>\n<i>Для поиска след. собеседника - /next\nДля прекращения диалога - /stop</>\n'''",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "DIALOGUE_FOUND",
+        "kind": 5,
+        "importPath": "app.templates.texts.user",
+        "description": "app.templates.texts.user",
+        "peekOfCode": "DIALOGUE_FOUND = '''\n<b>Собеседник найден! 🎁</>\n<i>Для поиска след. собеседника - /next\nДля прекращения диалога - /stop</>\n'''",
+        "detail": "app.templates.texts.user",
+        "documentation": {}
+    },
+    {
+        "label": "DB",
+        "kind": 6,
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "peekOfCode": "class DB(BaseSettings):\n    host: str\n    port: int\n    name: str\n    user: str\n    password: str\nclass Redis(BaseSettings):\n    host: str\n    db: int\nclass Bot(BaseSettings):",
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Redis",
+        "kind": 6,
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "peekOfCode": "class Redis(BaseSettings):\n    host: str\n    db: int\nclass Bot(BaseSettings):\n    token: str\n    timezone: str\n    admins: list[int]\n    use_redis: bool\n    @validator(\"admins\", pre=True, always=True)\n    def admin_ids(cls, string) -> list[int]:",
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "kind": 6,
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "peekOfCode": "class Bot(BaseSettings):\n    token: str\n    timezone: str\n    admins: list[int]\n    use_redis: bool\n    @validator(\"admins\", pre=True, always=True)\n    def admin_ids(cls, string) -> list[int]:\n        return json.loads(string)\nclass Payments(BaseSettings):\n    api_id: int",
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Payments",
+        "kind": 6,
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "peekOfCode": "class Payments(BaseSettings):\n    api_id: int\n    api_key: str\n    project_id: int\n    project_secret: str\n    enabled: bool\nclass Settings(BaseSettings):\n    bot: Bot\n    db: DB\n    redis: Redis",
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    bot: Bot\n    db: DB\n    redis: Redis\n    payments: Payments\n    class Config:\n        env_file = \".env\"\n        env_file_encoding = \"utf-8\"\n        env_nested_delimiter = \"__\"\ndef load_config(env_file=\".env\") -> Settings:",
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "peekOfCode": "def load_config(env_file=\".env\") -> Settings:\n    \"\"\"\n    Loads .env file into BaseSettings\n    :param str env_file: Env file, defaults to \".env\"\n    :return Settings: Settings object\n    \"\"\"\n    settings = Settings(_env_file=env_file)\n    return settings",
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "MailerSingleton",
+        "kind": 6,
+        "importPath": "app.utils.mailing",
+        "description": "app.utils.mailing",
+        "peekOfCode": "class MailerSingleton(object):\n    DEFAULT_DELAY = 1/25\n    __instance = None\n    def __init__(self, delay: int | float=None) -> None:\n        \"\"\"\n        Creator of MailerSingleton. Raises an exception if an instance already exists.\n        :param int | float delay: Delay between messages, optional.\n        :raises Exception: If an instance already exists.\n        \"\"\"\n        if MailerSingleton.__instance is not None:",
+        "detail": "app.utils.mailing",
+        "documentation": {}
+    },
+    {
+        "label": "CheckResponse",
+        "kind": 6,
+        "importPath": "app.utils.payments",
+        "description": "app.utils.payments",
+        "peekOfCode": "class CheckResponse:\n    is_paid: bool\n    amount: int = 0\n@dataclass\nclass BaseBill:\n    id: int\n    url: str = 'https://google.com'\nclass BasePayment(object):\n    async def check_payment(self, payment_id: int) -> CheckResponse:\n        return CheckResponse(True, 1)",
+        "detail": "app.utils.payments",
+        "documentation": {}
+    },
+    {
+        "label": "BaseBill",
+        "kind": 6,
+        "importPath": "app.utils.payments",
+        "description": "app.utils.payments",
+        "peekOfCode": "class BaseBill:\n    id: int\n    url: str = 'https://google.com'\nclass BasePayment(object):\n    async def check_payment(self, payment_id: int) -> CheckResponse:\n        return CheckResponse(True, 1)\n    async def create_payment(self, amount: int) -> BaseBill:\n        return BaseBill(id=self._get_id())\n    @staticmethod\n    def _get_id() -> int:",
+        "detail": "app.utils.payments",
+        "documentation": {}
+    },
+    {
+        "label": "BasePayment",
+        "kind": 6,
+        "importPath": "app.utils.payments",
+        "description": "app.utils.payments",
+        "peekOfCode": "class BasePayment(object):\n    async def check_payment(self, payment_id: int) -> CheckResponse:\n        return CheckResponse(True, 1)\n    async def create_payment(self, amount: int) -> BaseBill:\n        return BaseBill(id=self._get_id())\n    @staticmethod\n    def _get_id() -> int:\n        return random.getrandbits(32)\nlog = logging.getLogger('payments')\nclass PayOK(BasePayment):",
+        "detail": "app.utils.payments",
+        "documentation": {}
+    },
+    {
+        "label": "PayOK",
+        "kind": 6,
+        "importPath": "app.utils.payments",
+        "description": "app.utils.payments",
+        "peekOfCode": "class PayOK(BasePayment):\n    def __init__(self, api_id: int, api_key: str, project_id: int, project_secret: str):\n        self.api = payok.PayOK(api_id, api_key, project_id, project_secret)\n    async def create_payment(self, amount: int) -> BaseBill:\n        pay_id = self._get_id()\n        url = await self.api.create_bill(\n            pay_id=pay_id,\n            amount=amount,\n        )\n        return BaseBill(",
+        "detail": "app.utils.payments",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 5,
+        "importPath": "app.utils.payments",
+        "description": "app.utils.payments",
+        "peekOfCode": "log = logging.getLogger('payments')\nclass PayOK(BasePayment):\n    def __init__(self, api_id: int, api_key: str, project_id: int, project_secret: str):\n        self.api = payok.PayOK(api_id, api_key, project_id, project_secret)\n    async def create_payment(self, amount: int) -> BaseBill:\n        pay_id = self._get_id()\n        url = await self.api.create_bill(\n            pay_id=pay_id,\n            amount=amount,\n        )",
+        "detail": "app.utils.payments",
+        "documentation": {}
+    },
+    {
+        "label": "BasePlotCreator",
+        "kind": 6,
+        "importPath": "app.utils.plots",
+        "description": "app.utils.plots",
+        "peekOfCode": "class BasePlotCreator(object):\n    DAYS = 20\n    WIDTH = 10\n    LABEL_Y = 'Данные'\n    TITLE_TEMPLATE = 'Статистика c %s по %s'\n    @staticmethod\n    def splitting(value: int) -> str:\n        if value == 0:\n            return ''\n        return '%.1fk' % (value / 1000)",
+        "detail": "app.utils.plots",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentPlot",
+        "kind": 6,
+        "importPath": "app.utils.plots",
+        "description": "app.utils.plots",
+        "peekOfCode": "class PaymentPlot(BasePlotCreator):\n    LABEL_Y = 'Прибыль'\n    @classmethod\n    async def get_day(cls, session: AsyncSession, date: date) -> int:\n        return await session.scalar(\n            select(func.sum(Bill.amount))\n            .where(\n                Bill.date >= date,\n                Bill.date < date + timedelta(1),\n            )",
+        "detail": "app.utils.plots",
+        "documentation": {}
+    },
+    {
+        "label": "UsersPlot",
+        "kind": 6,
+        "importPath": "app.utils.plots",
+        "description": "app.utils.plots",
+        "peekOfCode": "class UsersPlot(BasePlotCreator):\n    LABEL_Y = 'Количество'\n    @classmethod\n    async def get_day(cls, session: AsyncSession, date: date) -> tuple:\n        return (\n            await session.scalar(\n                select(func.count(User.id))\n                .where(\n                    User.join_date >= date,\n                    User.join_date < date + timedelta(1),",
+        "detail": "app.utils.plots",
+        "documentation": {}
+    },
+    {
+        "label": "JoinRequestChecker",
+        "kind": 6,
+        "importPath": "app.utils.schedule",
+        "description": "app.utils.schedule",
+        "peekOfCode": "class JoinRequestChecker(object):\n    def __init__(self, bot: Bot, sessionmaker: async_sessionmaker):\n        self.bot = bot\n        self.sessionmaker = sessionmaker\n    async def approve(self) -> None:\n        async with self.sessionmaker() as session:\n            requests = await session.scalars(\n                select(Request)\n                .where(Request.time < datetime.now())\n            )",
+        "detail": "app.utils.schedule",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 5,
+        "importPath": "app.utils.schedule",
+        "description": "app.utils.schedule",
+        "peekOfCode": "log = logging.getLogger('joinrequest')\nclass JoinRequestChecker(object):\n    def __init__(self, bot: Bot, sessionmaker: async_sessionmaker):\n        self.bot = bot\n        self.sessionmaker = sessionmaker\n    async def approve(self) -> None:\n        async with self.sessionmaker() as session:\n            requests = await session.scalars(\n                select(Request)\n                .where(Request.time < datetime.now())",
+        "detail": "app.utils.schedule",
+        "documentation": {}
+    },
+    {
+        "label": "escape",
+        "kind": 2,
+        "importPath": "app.utils.text",
+        "description": "app.utils.text",
+        "peekOfCode": "def escape(text: str) -> str:\n    \"\"\"\n    Escape text for HTML parse mode\n    :param str text: Input text\n    :return str: Escaped text\n    \"\"\"\n    return (\n        text\n        .replace('&', '&amp;')\n        .replace('<', '&lt;')",
+        "detail": "app.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 2,
+        "importPath": "app.utils.text",
+        "description": "app.utils.text",
+        "peekOfCode": "def link(user: types.User, text: str | None=None) -> str:\n    \"\"\"\n    Generate direct link\n    :param types.User user: AIOGram user object\n    :param str | None text: Link text, defaults to user's first name\n    :return str: Direct link as href\n    \"\"\"\n    url = (\n        'https://t.me/%s' % user.username\n        if user.username else",
+        "detail": "app.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "get_ref",
+        "kind": 2,
+        "importPath": "app.utils.text",
+        "description": "app.utils.text",
+        "peekOfCode": "def get_ref(message: types.Message, check: bool=True) -> Optional[str]:\n    \"\"\"\n    Get reflink of a message. If check is True, it will check if the message is a /start command.\n    :param types.Message message: AIOGram message object\n    :param bool check: Check if the message is a /start command\n    :return Optional[str]: Ref link or None\n    \"\"\"\n    if check and not message.text.startswith('/start'):\n        return\n    if args := message.text.split()[1:]:",
+        "detail": "app.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "get_times",
+        "kind": 2,
+        "importPath": "app.utils.times",
+        "description": "app.utils.times",
+        "peekOfCode": "def get_times() -> tuple[date]:\n    \"\"\"\n    Get start of the day, start of the day week ago, start of the day month ago\n    :return tuple[date]: Tuple of date objects\n    \"\"\"\n    today = date.today()\n    week_ago = today - timedelta(days=6)\n    month_ago = today - timedelta(days=30)\n    return today, week_ago, month_ago",
+        "detail": "app.utils.times",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "log = logging.getLogger(__name__)\nasync def main():\n    logging.basicConfig(\n        level=logging.INFO,\n        format=\"%(asctime)s - %(name)s - %(levelname)s - %(message)s\",\n    )\n    logging.getLogger(\n        'aiogram.event',\n    ).setLevel(logging.WARNING)\n    log.info(\"Starting bot...\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "VIP_OPTIONS",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "VIP_OPTIONS = {\n    'day': {\n        'name': '🔥 На день - 39 руб.',\n        'price': 39,\n        'days': 1,\n    },\n    'week': {\n        'name': 'На неделю - 129 руб.',\n        'price': 129,\n        'days': 7,",
+        "detail": "settings",
+        "documentation": {}
+    }
+]
